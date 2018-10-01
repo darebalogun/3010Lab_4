@@ -18,6 +18,8 @@ public class Hello {
 	}
 
 	public void methodC(void) { 
-            System.out.println("Help\n");
-        }
+            System.out.println("User B's changes to this method\n");
+	    System.out.println("User A's changes to this method");
+	}
+
 }
