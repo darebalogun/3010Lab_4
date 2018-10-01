@@ -13,7 +13,9 @@ public class Hello {
 		System.out.println("Hello User B");
 	}
 
-	public void methodB(void) { }
+	public void methodB(void) {
+            System.out.println("hello\n");
+	}
 
 	public void methodC(void) { }
 }
