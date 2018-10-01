@@ -17,5 +17,7 @@ public class Hello {
             System.out.println("hello\n");
 	}
 
-	public void methodC(void) { }
+	public void methodC(void) { 
+            System.out.println("Help\n");
+        }
 }
